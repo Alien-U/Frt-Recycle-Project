@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"type="text/css" href="Homepage.css">
+</head>
+<body>
+    <div id="header">
+        <section>
+            <img src="recycle-high-resolution-logo-transparent.png"height="30px"width="100px" alt="">
+            <a href="Homepage.html"style="color:black;"><img src="home.png" height="30px"width="30px" alt="">Home</a>
+            <button onclick="openLogin()">Sign Up</button>
+        </section>
+    </div>
+    <!---- popup login ---->
+    <div class="InfoCont" id="InfoCont">
+        <div class="Information"id="Information">
+            <h4><i>These services will available online soon</i></h4><br><br><br>
+            <button onclick="closeInfoCont()">Ok</button>
+        </div>
+    </div>
+
+    <div class="loginContainer"id="loginContainer">
+        <div class="login"id="login">
+            <form action="">
+              <img src="close.png" height="15px"width="15px"id="close"onclick="closeLogin()">
+              <br>
+              <h2><i>Sign Up</i></h2><br>
+              <i><p style="color:green;">Sign Up with :</p></i><br>
+              <img src="facebook.png" height="30px"width="30px"  alt="">
+              <img src="apple.png" height="30px"width="30px" alt="">
+              <img src="github.png"height="30px"width="30px" alt="">
+              <img src="search.png" height="30px"width="30px"alt=""><br><br>
+              <i><h3 style="margin-left: 40%;color: rgb(113, 113, 113);">OR</h3></i>
+              <br><input type="email"placeholder="email"><br>
+              <input type="text"placeholder="password"><br>
+              <input type="text"placeholder="first name"><br>
+              <input type="text"placeholder="last name"><br><br>
+              <input type="submit"value="SignUp"style="background-color:green;width: 60%;color:white;border-radius:10%;margin-left:20%;">
+            </form>
+        </div>
+      </div>
+    <!-- main body content started -->
+    <div id="OurServices"> 
+        <h1>Our Products .....</h1>
+        <div>
+          <a href=""><img src="51Qf+B0gkYL._SY300_SX300_.jpg"height="150px"width="150px" ></a>
+          <a href=""><img src="ecopanda-oXbU5Z3p3r8-unsplash.jpg"height="150px"width="150px"></a>
+          <a href=""><img src="71ZpHncS+IL._SL1500_.jpg" height="150px"width="150px" ></a>
+          <a href=""><img src="micheile-henderson-QoSgke2RyF4-unsplash.jpg" height="150px"width="150px" ></a>
+          <a href=""><img src="micheile-henderson-wwTvwS9vKZs-unsplash.jpg" height="150px"width="150px" ></a><br><br><br>
+          <a href=""><img src="313EnAwl+jL._SY300_SX300_.jpg" height="150px"width="150px" ></a>
+          <a href=""><img src="pop-up-table-top-tissue-paper-500x500.jpg" height="150px"width="150px"></a>
+          <a href=""><img src="wooden-copper-bottle-neem-wood-dvaar-cobo5-bottles-sippers-brown-living-156111_700x.webp" height="150px"width="190px"></a>
+          <a href=""><img src="71YFrmASENL.jpg" height="150px"width="150px"></a>
+          <a href=""><img src="71knhJVSwsL._SL1500_.jpg" height="150px"width="150px"></a>
+        </div>
+  </div>
+    <!-- main body content ended -->
+    <div id="footer">
+        <br>
+        <h2 style="color: rgb(255, 255, 255);"><i>Get touched with us on....</i></h2><br>
+        <img src="instagram.png"height="30px"width="30px" alt="">
+        <img src="facebook.png" height="30px"width="30px"  alt="">
+        <img src="twitter.png" height="30px"width="30px" alt="">
+        <img src="linkedin.png" height="30px"width="30px"alt="">
+        <h3 style="color: rgb(255, 255, 255);"><i>Download our mobile app from---</i></h3>
+        <img src="game.png" height="30px"width="30px" alt="">
+        <img src="apple.png"style="background-color:#ffff;" height="30px"width="30px" alt="">
+        <h2 style="color: rgb(255, 255, 255);">- - - - -----------   ------------- - - - ----------------   -------------- - - - -</h2>
+    </div>
+</body>
+<script>
+    let Login = document.getElementById("loginContainer");
+    function openLogin()
+    {
+        Login.classList.add("openloginContainer");
+    } 
+    function closeLogin()
+    {
+        Login.classList.remove("openloginContainer");
+    }    
+</script>
+<script>
+    let InfoCont = document.getElementById("InfoCont");
+    function closeInfoCont()
+    {
+        InfoCont.classList.add("closeInfoCont");
+    }   
+</script>
+</html>
