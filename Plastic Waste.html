@@ -30,22 +30,22 @@
             <button onclick="window.location.href = 'index.html'" id="OK">Ok</a>
         </div>
         <div id="form">
-            <form onsubmit="openPopup()"id="formId">
-                <input type="text"placeholder=" Country"required >
-                <input type="text" placeholder=" Full Name"required >
-                <input type="tel"placeholder=" Phone Number"required ><br>
-                <input type="text"placeholder=" Pincode"required >
-                <input type="text"placeholder=" Area,Colony,Street,Village"required >
-                <input type="text"placeholder=" District/City"required ><br>
-                <input type="text"placeholder=" State"required >
-                <input type="text" placeholder="Enter Bank Account/UPI Id"required id="firstinput">
+            <form onsubmit="openPopup()"id="formId" >
+                <input type="text"placeholder=" Country"required name="Country">
+                <input type="text" placeholder=" Full Name"required name="Full-Name">
+                <input type="tel"placeholder=" Phone Number"required name="Phonenumber"><br>
+                <input type="text"placeholder=" Pincode"required name="Pincode">
+                <input type="text"placeholder=" Area,Colony,Street,Village"required name="LocalAddress">
+                <input type="text"placeholder=" District/City"required name="District"><br>
+                <input type="text"placeholder=" State"required name="State">
+                <input type="text" placeholder="Enter Bank Account/UPI Id"required id="firstinput"name="BankAccount">
                 <input type="text"placeholder="Confirm Bank Account/UPI"required id="lastinput"><br>
-                <input type="text"placeholder="IFSC Code"required style="margin-right: 184px;">
-                <input type="text"placeholder="Account Holder's Name"required >
+                <input type="text"placeholder="IFSC Code"required style="margin-right: 184px;"name="IfscCode">
+                <input type="text"placeholder="Account Holder's Name"required name="AccountHolder">
                      <!-- range input tag -->
                 <div id="rangeInput"required >
                     <p>How much Plastic-waste do you have:</p><hr><br>
-                    <input id="pi_input" type="number" min="10" max="2000" step="1" placeholder=" 000 "required/>
+                    <input id="pi_input" type="number" min="10" max="2000" step="1" placeholder=" 000 "required name="Qnt_O_Plastic"/>
                     <p>Value: <output id="value"></output> Kgs</p>
                 </div><br>
                 <!-- range input ended -->
@@ -55,7 +55,7 @@
     </div>
     <div id="footer">
         <br>
-        <h2 style="color: rgb(255, 255, 255);"><i>Get touched with us on........</i></h2><br>
+        <h2 style="color: rgb(255, 255, 255);"><i>Follow us on........</i></h2><br>
         <img src="instagram.png"height="30px"width="30px" alt="">
         <img src="facebook.png" height="30px"width="30px"  alt="">
         <img src="twitter.png" height="30px"width="30px" alt="">
