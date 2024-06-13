@@ -1,4 +1,4 @@
-<img width="960" alt="Screenshot 2024-06-13 224031" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/90a5d046-72c7-4089-a817-b92465d36c7e"># Recycle: A Waste Management Platform
+# Recycle: A Waste Management Platform
 
 Description:
 
