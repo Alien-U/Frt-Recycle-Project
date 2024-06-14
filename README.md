@@ -58,8 +58,8 @@ src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/3379d441-c8
 <img width="960" alt="Screenshot 2024-06-13 224016" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/272c4b5c-b8d5-4686-8abf-710ba6382d8d">
 <img width="960" alt="Screenshot 2024-06-13 224031" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/5837c8f5-fd0f-4d13-8089-53fdf6a1b782">
 <h2>3.Screenshots of Azure portel:</h2>
-<h3>Deployment process of Azure bot:</h3>
 
+<h3>Process of Creating Azure bot:</h3>
 
 <img width="960" alt="Screenshot 2024-05-31 154937" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/3a2b4924-f283-48f7-876b-cf37f98b211c">
 <img width="960" alt="Screenshot 2024-05-31 160619" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/e5a46038-26cf-43eb-971f-3533a9e7e2e7">
@@ -72,6 +72,9 @@ src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/3379d441-c8
 <img width="960" alt="Screenshot 2024-05-31 213427" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/7d44d8dd-ecfa-4447-91a3-d7ac44ae9104">
 <img width="960" alt="Screenshot 2024-05-31 220315" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/55a760e0-eba1-4e76-95ee-65ebd233ca6c">
 <img width="960" alt="Screenshot 2024-05-31 221527" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/5d1bbe2a-ff27-420a-a982-408a77a9ff56">
+<br>
+<h3>Deployment process of Azure Static Web App:</h3>
+<br>
 <img width="960" alt="Screenshot 2024-06-04 161958" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/da6b94f6-e75d-4136-8793-3f02d96a6806">
 <img width="960" alt="Screenshot 2024-06-04 162045" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/547a23a4-6b05-4220-ae2a-1f4fdb61ec56">
 
