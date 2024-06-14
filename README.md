@@ -3,10 +3,13 @@
 Description:
 
 Recycle is a web platform that connects people with eco-friendly waste management solutions. Users can request waste collection for various types of waste, and the platform facilitates the process with dedicated waste collectors. Additionally, Recycle promotes eco-friendly products to encourage sustainable practices.
-
+<br><br>
+git hub deployed project link  https://alien-u.github.io/Frt-Recycle-Project/
+<br><br>
+Project demo video link: https://youtube.com/watch?v=SmiDstrCozU&si=PnyeoxFxpEBreud1
 Technologies Used:
 
-    HTML5,CSS and javascript.
+    HTML5,CSS and javascript and Azure services.
 # Azure services used:	
   <h3>1.Core Azure services:</h3>
      1.Azure App service:
