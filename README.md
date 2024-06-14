@@ -61,6 +61,19 @@ src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/3379d441-c8
 <h3>Deployment process of Azure bot:</h3>
 
 
+<img width="960" alt="Screenshot 2024-05-31 154937" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/3a2b4924-f283-48f7-876b-cf37f98b211c">
+<img width="960" alt="Screenshot 2024-05-31 160619" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/e5a46038-26cf-43eb-971f-3533a9e7e2e7">
+<img width="960" alt="Screenshot 2024-05-31 161053" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/6e0dbf8c-77d0-45f1-bbd7-30e6e2c56519">
+<img width="960" alt="Screenshot 2024-05-31 161357" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/5b3aef95-dd82-4223-8cc0-2e02450978f1">
+<img width="960" alt="Screenshot 2024-05-31 161742" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/ebf40d14-d1ab-4278-81fa-738bb966bb32">
+<img width="960" alt="Screenshot 2024-05-31 170007" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/b12ba1ae-d149-49e6-a5ef-d3011c4d5dba">
+<img width="960" alt="Screenshot 2024-05-31 170047" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/77f46f57-bd1b-444e-a41b-ded464aeb793">
+<img width="960" alt="Screenshot 2024-05-31 170807" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/9226093b-eca0-47a4-aacc-65a5a24ced60">
+<img width="960" alt="Screenshot 2024-05-31 213427" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/7d44d8dd-ecfa-4447-91a3-d7ac44ae9104">
+<img width="960" alt="Screenshot 2024-05-31 220315" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/55a760e0-eba1-4e76-95ee-65ebd233ca6c">
+<img width="960" alt="Screenshot 2024-05-31 221527" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/5d1bbe2a-ff27-420a-a982-408a77a9ff56">
+<img width="960" alt="Screenshot 2024-06-04 161958" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/da6b94f6-e75d-4136-8793-3f02d96a6806">
+<img width="960" alt="Screenshot 2024-06-04 162045" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/547a23a4-6b05-4220-ae2a-1f4fdb61ec56">
 
 
 
