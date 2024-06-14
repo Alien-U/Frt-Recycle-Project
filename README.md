@@ -78,6 +78,9 @@ src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/3379d441-c8
 <img width="960" alt="Screenshot 2024-06-04 161958" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/da6b94f6-e75d-4136-8793-3f02d96a6806">
 <img width="960" alt="Screenshot 2024-06-04 162045" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/547a23a4-6b05-4220-ae2a-1f4fdb61ec56">
 
+<h3>Screenshot of Azure Services which I am using:</h3>
+<img width="960" alt="Screenshot 2024-06-14 081035" src="https://github.com/Alien-U/Frt-Recycle-Project/assets/157039327/524d3b02-2d56-4fee-9dfb-e8f93e355cb5">
+
 
 
 
